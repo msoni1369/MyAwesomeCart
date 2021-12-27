@@ -1,0 +1,3 @@
+this is a test static file...
+
+congo we have accessed our static files
